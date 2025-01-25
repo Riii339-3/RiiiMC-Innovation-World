@@ -14,6 +14,7 @@
   "avaritia:extreme": null,
   "custommachinery:machine_component_provider": null,
   "custommachinery:machine_server_data_provider": null,
+  "entangled:entangled_block_component": null,
   "expatternprovider:jade_chamber": null,
   "expatternprovider:jade_wireless": null,
   "expatternprovider:tile_data": null,
@@ -32,6 +33,7 @@
   "extendedcrafting:flux_crafter": null,
   "extendedcrafting:ultimate_auto_table": null,
   "extendedcrafting:ultimate_table": null,
+  "fluidtank:jade_plugin": null,
   "gravestone:grave": null,
   "immersiveengineering:multiblock_icon": null,
   "immersiveengineering:multiblock_inventory": null,
@@ -90,5 +92,7 @@
   "mysticalagradditions:infused_farmland": null,
   "mysticalagriculture:crop": null,
   "mysticalagriculture:inferium_crop": null,
-  "mysticalagriculture:infused_farmland": null
+  "mysticalagriculture:infused_farmland": null,
+  "tesseract:remove_default": null,
+  "tesseract:tesseract": null
 }

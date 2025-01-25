@@ -51,6 +51,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "mekanismcovers": {
     "cover_component": true
   },
@@ -105,8 +108,17 @@
     "advanced_auto_table": true,
     "compressor": true
   },
+  "tesseract": {
+    "tesseract": true,
+    "remove_default": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
+  },
+  "fluidtank": {
+    "short_info": false,
+    "jade_plugin": true,
+    "compact_number": false
   },
   "mekanism": {
     "infuse_type": true,
