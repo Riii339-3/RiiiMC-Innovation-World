@@ -1,0 +1,102 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7D47F27DCE95BECC"
+	group: ""
+	id: "7D47F27DCE95BECC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4154DD5E60A21B94"
+			size: 3.0d
+			subtitle: "貴方の記憶が世界に革命をもたらす"
+			tasks: [{
+				id: "30B40E8314260FE5"
+				title: "ようこそ！"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["4154DD5E60A21B94"]
+			id: "330D60D6F6AD7F27"
+			size: 2.0d
+			tasks: [{
+				id: "51A4BF30E7DF5C6E"
+				title: "Modについて"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4154DD5E60A21B94"]
+			description: [
+				"この環境に大規模なレシピ改変はありません"
+				"ただし、この環境に入っているすべてのModをクリアしてもこのModPackを完了することはできません"
+				"貴方はMultiblocked2やKubeJSによって追加された新たな&l発展的工業&rを進めなくてはいけません"
+				"全く知らないマシン。全く知らない鉱石。それでもあなたの記憶にはある"
+				""
+				"さ あ 、 貴 方 だ け の 革 命 を 起 こ し ま し ょ う"
+			]
+			id: "1D19FF8E835BE7E3"
+			size: 2.0d
+			tasks: [{
+				id: "696D5B3FAD8F19CC"
+				title: "改変など"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["4154DD5E60A21B94"]
+			id: "7BF97DF401E1B430"
+			rewards: [
+				{
+					id: "0284F7FCB091BD30"
+					item: "ftbquests:book"
+					type: "item"
+				}
+				{
+					id: "28964F665EB9395B"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "industrialforegoing:industrial_foregoing"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2495DD4B48032BDA"
+					item: "immersiveengineering:manual"
+					type: "item"
+				}
+				{
+					id: "386BC7317692A162"
+					item: "energizedpower:energized_power_book"
+					type: "item"
+				}
+				{
+					id: "33440563392D0455"
+					item: "botania:lexicon"
+					type: "item"
+				}
+			]
+			size: 2.0d
+			subtitle: "初期配布を作るのがめんどかったので"
+			tasks: [{
+				id: "0B1778E96144A2BA"
+				title: "初期配布"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -5.0d
+		}
+	]
+	title: "ようこそ！"
+}

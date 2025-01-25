@@ -1,0 +1,21 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "forge:silicon": "energizedpower:silicon",
+  "forge:gems/apatite": "moremekanismprocessing:gem_apatite",
+  "forge:ingots/brass": "null",
+  "forge:ingots/tungsten": "moremekanismprocessing:tungsten_ingot",
+  "forge:ingots/mithril": "null",
+  "forge:dusts/saltpeter": "immersiveengineering:dust_saltpeter",
+  "forge:ingots/iridium": "moremekanismprocessing:iridium_ingot",
+  "forge:ingots/zinc": "moremekanismprocessing:zinc_ingot",
+  "forge:ingots/titanium": "moremekanismprocessing:titanium_ingot",
+  "forge:gems/sapphire": "moremekanismprocessing:gem_sapphire",
+  "forge:ingots/invar": "null",
+  "forge:rubber": "null",
+  "forge:gems/ruby": "moremekanismprocessing:gem_ruby",
+  "forge:ingots/platinum": "moremekanismprocessing:platinum_ingot",
+  "forge:dusts/niter": "moremekanismprocessing:dust_niter",
+  "forge:ingots/graphite": "null",
+  "forge:gems/peridot": "moremekanismprocessing:gem_peridot",
+  "forge:ingots/chrome": "null"
+}

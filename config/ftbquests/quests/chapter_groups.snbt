@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "42E2EA28F6BC7160", title: "Mekanism" }
+		{ id: "1278FC27112E3D6B", title: "Immersive Engineering" }
+		{ id: "35F37E3CFC9EA8FE", title: "Industrial Foregoing" }
+		{ id: "50C83C29CAF450E4", title: "Energized Power" }
+	]
+}
